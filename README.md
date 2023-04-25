@@ -1,3 +1,10 @@
+## About Me
+- 👋 Hi, I’m @mhmdiamd
+- 👀 I’m interested in Web Developer, but i still learn anything what makes me happy lmao
+- 🌱 I’m currently learning emmm.. it's secret maybe
+- 💞️ I’m looking to collaborate on everyone who have same enthusiast on me, so yaa ,,,
+- 📫 email : darmawanilham34@gmail.com
+
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ilham.darmawan.184)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdiamd) 
